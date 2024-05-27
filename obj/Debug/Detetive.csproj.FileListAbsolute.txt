@@ -1,0 +1,7 @@
+C:\dev\.net\Colecoes\Detetive\bin\Debug\Detetive.exe.config
+C:\dev\.net\Colecoes\Detetive\bin\Debug\Detetive.exe
+C:\dev\.net\Colecoes\Detetive\bin\Debug\Detetive.pdb
+C:\dev\.net\Colecoes\Detetive\obj\Debug\Detetive.csproj.AssemblyReference.cache
+C:\dev\.net\Colecoes\Detetive\obj\Debug\Detetive.csproj.CoreCompileInputs.cache
+C:\dev\.net\Colecoes\Detetive\obj\Debug\Detetive.exe
+C:\dev\.net\Colecoes\Detetive\obj\Debug\Detetive.pdb
